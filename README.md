@@ -14,3 +14,5 @@ Example:
     cp basicui*.vdf ~/.local/share/Steam/userdata/12345678/config/controller_configs/
 
 HAVE FUN!
+
+@Valve: Feel free to use :-)
