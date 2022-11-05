@@ -1981,7 +1981,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Default LTRIGGER"
+							"binding"		"mouse_button RIGHT"
 						}
 						"settings"
 						{
@@ -2006,7 +2006,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"game_action Default RTRIGGER"
+							"binding"		"mouse_button LEFT"
 						}
 						"settings"
 						{
